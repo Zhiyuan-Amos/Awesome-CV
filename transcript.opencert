@@ -1,0 +1,696 @@
+{
+  "schema": "opencerts/v1.5",
+  "data": {
+    "id": "a5cb40e9-cb21-414b-a0a5-76f3c364a771:string:NUS-A0139655U-B031003-20190131",
+    "$template": "5326cc33-9726-40c4-a08d-a0dc0019921b:string:sg/edu/nus/NUS-K1-2019",
+    "issuedOn": "56fb6e2b-7455-4c53-9316-bf72b7c65c58:string:2020-02-10T23:58:23+08:00",
+    "graduationDate": "4883203e-2f20-4aae-a839-8fa5dc18873f:string:2019-01-31T00:00:00+08:00",
+    "attainmentDate": "a6b94ba0-4186-48b4-b261-8ac0236c2cb4:string:2019-01-31T00:00:00+08:00",
+    "name": "f21a5561-60fb-4762-8f5d-a0ba6b7c60a0:string:Bachelor of Computing (Computer Science)",
+    "qualificationLevel": [
+      {
+        "frameworkName": "ee9abd98-53a2-4840-aedc-0b3296b55a3c:string:singapore/ssec-eqa",
+        "frameworkVersion": "52bfd4e0-9173-4b4d-8609-35279049a8f2:string:2015",
+        "code": "eba305eb-db85-4002-b636-fa834fb48a9e:string:70",
+        "description": "91be010b-46b2-4c0c-9782-cfb778b70c59:string:Bachelor's degree or equivalent"
+      }
+    ],
+    "issuers": [
+      {
+        "name": "112bd239-f54d-4bb9-91d6-93d5a4df9375:string:National University of Singapore",
+        "uen": "867ffd40-0746-49dc-a328-33a780ae2a35:string:200604346E",
+        "url": "3281c2ae-e755-4215-950c-66f279721bef:string:https://www.nus.edu.sg",
+        "email": "58581aec-f68c-4a2d-b8b9-308e74a4cc52:string:transcript@nus.edu.sg",
+        "certificateStore": "756f2a86-92ab-4c51-b00c-eb04e06a93b3:string:0xA204F16717fbF580d6A0535b58063fB4fce969fF"
+      }
+    ],
+    "recipient": {
+      "name": "1b032848-6a71-450f-ab08-9af6eff0f185:string:YONG ZHI YUAN",
+      "studentId": "9b20c729-4998-4d24-bd41-e35bbdae081d:string:A0139655U",
+      "dateOfBirth": "024f8a53-46d3-4c5c-9a36-baf1816ca973:string:1994-07-09"
+    },
+    "transcript": [
+      {
+        "name": "0a736905-ed8a-4aaa-b666-03d1631fac24:string:Programming Methodology",
+        "courseCode": "f5f28118-f05d-4f59-bfd7-a4b98236cca9:string:CS1010",
+        "grade": "fc95f5aa-4297-4fa7-bb00-c4c8416b46cb:string:A+",
+        "courseCredit": "dd14aafe-8719-4ff8-97bd-5bc861960411:number:4",
+        "gradingBasis": "120f8dd6-ab30-4dea-9ed0-f08a3240afaa:string:GRD",
+        "includeInGPA": "ed15bfe6-ae04-4df0-9606-2f9ee17b804e:boolean:true",
+        "reportNo": "3fedfe06-9196-456b-9d14-86716457536f:number:1",
+        "semester": "2e899ae4-5fdd-4dbe-8335-6c347a3f8224:string:1510"
+      },
+      {
+        "name": "f2d83f6d-061e-43b7-8a34-53b03bfe45ac:string:Discrete Structures",
+        "courseCode": "c73431ce-d1e9-4b00-91da-4a0b96b6c9ba:string:CS1231",
+        "grade": "49c2f51c-d36f-43b1-91f0-2ca71f2aafa6:string:A-",
+        "courseCredit": "51cee68f-1d7e-496d-bfe0-bc3818152b03:number:4",
+        "gradingBasis": "99d7ee11-7458-4361-9a07-eb250d75b578:string:GRD",
+        "includeInGPA": "3aea998b-a2d6-4dac-a987-2eee7807a935:boolean:true",
+        "reportNo": "2aa16eed-c35b-4767-bf91-9e7f87117e54:number:1",
+        "semester": "ff0ef197-ee46-4954-9099-7cb7357e0b26:string:1510"
+      },
+      {
+        "name": "157b32b9-7940-4d8f-bc26-39eeff3da5ca:string:Quantitative Reasoning",
+        "courseCode": "a8165651-e045-4413-9db5-df25bf829cde:string:GER1000",
+        "grade": "567aa783-6a4c-49d9-a99d-1eddc43c0700:string:B+",
+        "courseCredit": "b352a39a-0c34-4fbd-8e9d-f4cff5395a4c:number:4",
+        "gradingBasis": "1ab45105-216e-4ce4-b811-2eeb84d0a1a4:string:GRD",
+        "includeInGPA": "12b58b27-bb36-4782-aadb-de60f8e43224:boolean:true",
+        "reportNo": "800627d8-46ac-4aca-a783-bfa2c6324afd:number:1",
+        "semester": "4c82a5e3-f226-4220-90af-65aac87de539:string:1510"
+      },
+      {
+        "name": "218ec98a-cecf-4396-abf1-5bf0a5299c2a:string:Linear Algebra I",
+        "courseCode": "25795fa6-481a-426d-8004-3656073e9897:string:MA1101R",
+        "grade": "835863df-bae3-48f0-8d79-3d9b9b23a959:string:B+",
+        "courseCredit": "014b44ea-86e2-497d-a9ff-75c3cd737b0b:number:4",
+        "gradingBasis": "5b9be66c-a71c-413d-ae0a-6b5a1d989843:string:GRD",
+        "includeInGPA": "a0d0ba11-9957-40cd-9835-4b3d59698fa2:boolean:true",
+        "reportNo": "688c2214-6c3e-41c5-81ed-8df29e9fd8c5:number:1",
+        "semester": "bb4a70c4-1bd7-495b-9407-d9b39ded3208:string:1510"
+      },
+      {
+        "name": "416ed3e1-7c3f-448d-843e-036a882cf0af:string:Calculus for Computing",
+        "courseCode": "d91fe134-10db-460d-ab5f-97ae8123d75c:string:MA1521",
+        "grade": "3966a586-1095-424d-9dc9-ef9dbfadd7f6:string:A",
+        "courseCredit": "00d93928-e10b-450b-b6ba-9c0e14697132:number:4",
+        "gradingBasis": "ef418061-78a0-4d85-b2ee-b93b91904f76:string:GRD",
+        "includeInGPA": "705d288c-d1e1-484c-a516-b079a99e63d0:boolean:true",
+        "reportNo": "6c6b7e83-8f67-43a6-9e63-d3c89d63b07b:number:1",
+        "semester": "1da61348-2542-4bed-acec-ed4119e8f81f:string:1510"
+      },
+      {
+        "name": "0a183c1c-063a-4003-894c-17367e7c51d9:string:Data Structures and Algorithms I",
+        "courseCode": "4b7512cd-fd5c-4cc6-ac04-69e371ccf2d4:string:CS1020",
+        "grade": "0e3424e0-8fc4-4a62-a050-263c5bf3c59e:string:A+",
+        "courseCredit": "47b82295-2af0-4cbe-bb53-bf041afbf25e:number:4",
+        "gradingBasis": "099c7013-114e-4cd9-a786-08ccfe3ba4ba:string:GRD",
+        "includeInGPA": "3f238316-fb12-4b00-b80d-7318f0bf22b8:boolean:true",
+        "reportNo": "ae30a45b-634c-4514-861c-fdddd344b897:number:1",
+        "semester": "ea2a860d-1743-4264-8f8e-a7f3b60600bb:string:1520"
+      },
+      {
+        "name": "183c409e-61b6-4cbc-8aff-2ef300a10428:string:Computer Organisation",
+        "courseCode": "76c7e0b4-236e-4869-bdc1-d0879d0b739e:string:CS2100",
+        "grade": "71fcbf0c-58b7-4987-bba3-46fce8797d6b:string:A",
+        "courseCredit": "b382bc50-423c-49ad-b0fc-380725998775:number:4",
+        "gradingBasis": "0b2c109a-26fb-45a2-a3dd-761a58d88f02:string:GRD",
+        "includeInGPA": "d40a3c3c-9a39-435b-b1a8-6c2f473935b2:boolean:true",
+        "reportNo": "34ea7672-9abb-4d91-95d1-263069ce5a75:number:1",
+        "semester": "04bb56ad-ad10-4b6e-8e6d-9939c4e85910:string:1520"
+      },
+      {
+        "name": "e9971ab6-a636-4a0f-923e-d574c8283ba0:string:Reason and Persuasion",
+        "courseCode": "ee0ed262-d767-456e-b3dd-592a27f9fc59:string:GET1027",
+        "grade": "b3aa4c09-71b2-4330-9d46-7d5c449ab865:string:A-",
+        "courseCredit": "84dc1df0-61b9-4bb8-a260-50bfa066babd:number:4",
+        "gradingBasis": "df37b437-a298-453b-822e-ccc8df036354:string:GRD",
+        "includeInGPA": "f733230e-cf32-464f-a58e-6d7935f63d1a:boolean:true",
+        "reportNo": "6aa2014f-53e3-403e-bd5c-be8ba7d1a7fc:number:1",
+        "semester": "6616d661-d27c-4771-8c62-3ade68557aa8:string:1520"
+      },
+      {
+        "name": "97888cc5-7761-4ccf-a93c-85f4005f87d6:string:Computing and Society",
+        "courseCode": "5cefd084-fab3-4031-8ae5-ffe23717b737:string:IS1103",
+        "grade": "65e6c5d0-2364-42c7-9c8a-a153668655f6:string:A-",
+        "courseCredit": "819cbbf1-d109-4cb5-855d-321064902d72:number:4",
+        "gradingBasis": "c432196b-d7cc-4044-9b49-c035c7fc2579:string:GRD",
+        "includeInGPA": "109827d3-33e0-42bb-80d5-2ccf8fb22f99:boolean:true",
+        "reportNo": "9c567fe4-de16-432e-815c-38ef11ad4ba8:number:1",
+        "semester": "18ae765c-9070-47c7-b102-7d3fae62a63d:string:1520"
+      },
+      {
+        "name": "80182300-9fde-4b1b-bb5c-b01a2f2d8e21:string:Probability and Statistics",
+        "courseCode": "09cf23a1-84ab-4165-9aff-3ca6a037ad02:string:ST2334",
+        "grade": "b5a3331f-24a3-47a0-b1f6-bd98be54ebf7:string:A+",
+        "courseCredit": "ff77185f-ac5f-4ec2-9369-7052a5ca6047:number:4",
+        "gradingBasis": "aa027d13-e445-4a6c-999b-5777d42decc8:string:GRD",
+        "includeInGPA": "d95c2a68-d317-4c30-86ef-8eec9fe11eb9:boolean:true",
+        "reportNo": "8dea8b74-e63e-4aa9-a1d1-a7511183d39d:number:1",
+        "semester": "16a91e48-568f-4408-954a-f95832c3ed55:string:1520"
+      },
+      {
+        "name": "0b60b3a8-ea23-45ff-9d50-91cfbd344482:string:Data Structures and Algorithms II",
+        "courseCode": "22158492-872b-43fa-a1a0-fce9d889e842:string:CS2010",
+        "grade": "5bb7bbd5-4616-4b21-8b86-22cd8a86d21e:string:A+",
+        "courseCredit": "d4cbbb53-2da8-45f6-a2d3-2e5d807f5a4a:number:4",
+        "gradingBasis": "3e6c9b8e-18b1-4e2e-bd3d-6609e8494d6b:string:GRD",
+        "includeInGPA": "405d901b-5415-423c-a470-e3e08f529042:boolean:true",
+        "reportNo": "70621c3d-4bfb-467b-84af-3707973ada95:number:1",
+        "semester": "23ba2fb0-0a56-460a-9123-507453070f17:string:1540"
+      },
+      {
+        "name": "c8c32342-e1ee-447e-abe0-de06b8803ccd:string:Roots and Wings – Personal and Interpersonal Effectiveness 2.0",
+        "courseCode": "4732906b-8601-4e27-b9d9-375cd1ce393d:string:CFG1020",
+        "grade": "9773d140-21f9-46bd-bb6c-272c44227df2:string:CS",
+        "courseCredit": "aff9099b-054a-4741-8644-df3745c1089f:number:4",
+        "gradingBasis": "a0468055-d7eb-479f-89f5-5c4cb94c6f9b:string:CSU",
+        "includeInGPA": "00a83ba4-4523-4a85-9f10-5124afbd2d6f:boolean:false",
+        "reportNo": "978e0e43-fca4-4c1a-a134-743abbac8624:number:1",
+        "semester": "8ac83004-a6da-4ff6-ade2-e3474375a219:string:1610"
+      },
+      {
+        "name": "915ccc35-0e87-4498-a006-3936a136e035:string:Independent Work",
+        "courseCode": "ac593c7e-fb82-4f75-afa7-07a1549acd10:string:CP3108B",
+        "grade": "6283de34-7f62-4121-8e85-be3a97d86c85:string:CS",
+        "courseCredit": "da9c2098-829a-4aba-a8ce-9d12cc202fa6:number:4",
+        "gradingBasis": "d210fc24-851d-4495-9b6d-4fa8ef724077:string:CSU",
+        "includeInGPA": "9f1f4a3d-ae33-4ee1-b0f9-fc7d72421c10:boolean:false",
+        "reportNo": "71269be1-d1ee-491f-b92c-fbddb5f20bd6:number:1",
+        "semester": "833a63b9-c568-4789-a762-ff7119ba1f33:string:1610"
+      },
+      {
+        "name": "3d95a6de-687d-40ea-ae53-032eeab36059:string:Effective Communication for Computing Professionals",
+        "courseCode": "28e3060a-760c-420b-bda8-f724d1908315:string:CS2101",
+        "grade": "12e9bbbc-34d8-4415-a740-5ea60f4c539b:string:B+",
+        "courseCredit": "f37b194f-b41d-4b93-a041-5b6171015f08:number:4",
+        "gradingBasis": "f3ee894c-eb53-4750-989d-4a38e091d5b3:string:GRD",
+        "includeInGPA": "2d2b27a8-7985-4b73-a687-d98198a31c04:boolean:true",
+        "reportNo": "bc6b4a7c-8b24-44f1-8919-4237300cbc89:number:1",
+        "semester": "1d0cd36b-5227-4715-8e96-b51c21e69031:string:1610"
+      },
+      {
+        "name": "59e96ca6-8f2a-40bf-a4a1-b130a6a87164:string:Software Engineering",
+        "courseCode": "e0418349-2eea-471d-8bfc-dee882be613e:string:CS2103T",
+        "grade": "9b178b6c-039f-4ff5-b92f-d5fc89e987b4:string:A+",
+        "courseCredit": "fad213ca-a8cc-445e-82b0-46e469cb62b5:number:4",
+        "gradingBasis": "e8ecfa09-5e54-4e8f-af59-80fe6fc5b3ca:string:GRD",
+        "includeInGPA": "4f9377bd-5faf-4a07-bbc3-c2701a530672:boolean:true",
+        "reportNo": "1e662551-abf8-432a-b396-b918e8624ab7:number:1",
+        "semester": "e0c615ce-3f4c-44b8-9369-1f726f7712fc:string:1610"
+      },
+      {
+        "name": "7b8f97cb-c491-44fb-892d-60e3a5e6b2f3:string:Design and Analysis of Algorithms",
+        "courseCode": "88ec7cfe-b506-4877-8060-343b1676e46b:string:CS3230",
+        "grade": "5d47a856-981c-4333-971a-6c5548b79dab:string:A+",
+        "courseCredit": "a8ce69c3-c5b5-4e8e-a9b8-87332734d7c3:number:4",
+        "gradingBasis": "25cf1f34-3b48-4504-9dce-0bfbfdb8cc17:string:GRD",
+        "includeInGPA": "622af93d-7db4-46e7-b386-94ba344ca2d8:boolean:true",
+        "reportNo": "f97148c7-e1cd-4256-8f2f-9af3311b3adc:number:1",
+        "semester": "3bbd084d-8263-458e-bc4b-3390e616c7e4:string:1610"
+      },
+      {
+        "name": "07384bd8-7a1b-4131-8505-3e18985c0b99:string:World Religions",
+        "courseCode": "abd2ef1f-a9e3-4b57-b6b6-12ae884c5626:string:GEH1045",
+        "grade": "256f7ef6-1287-4f97-9f1c-3b15099e877c:string:B+",
+        "courseCredit": "75cd103a-72d2-450c-aaf7-2476e4b8c079:number:4",
+        "gradingBasis": "5f96c958-2dc2-4215-83e6-04bd933aa135:string:GRD",
+        "includeInGPA": "38df73d2-62c0-4c10-877a-156af227902a:boolean:true",
+        "reportNo": "acaadaf9-e842-494c-8bed-7b2571bb4a25:number:1",
+        "semester": "21afd037-4c33-4bb2-9af2-a8f810c3a87c:string:1610"
+      },
+      {
+        "name": "85dc4c4a-359b-41e4-af50-42b3b24422db:string:Critical Thinking in the Information Age",
+        "courseCode": "3f4277c4-ecd9-4179-90c7-0a01a0af3047:string:GET1006",
+        "grade": "33945dd8-dcac-4c88-86f5-b55b78679fa2:string:B+",
+        "courseCredit": "aa0f7ed7-25c8-440e-aa41-ecaa3dd2f485:number:4",
+        "gradingBasis": "e3676179-a812-4b8e-8158-5c2a7d887287:string:GRD",
+        "includeInGPA": "5af6664b-07c8-457f-9c2d-158a24a411d1:boolean:true",
+        "reportNo": "187f8907-b0a3-41c5-bed6-781c23ea5788:number:1",
+        "semester": "3180d7de-8a94-4682-9b1b-3c61b7ec77be:string:1610"
+      },
+      {
+        "name": "9b8bfc76-b171-42db-ae79-e1a5f168759c:string:Database Systems",
+        "courseCode": "27e98cc2-0dba-4727-9ce8-664d5de53902:string:CS2102",
+        "grade": "4db2025d-8766-480a-b512-8bd4cef18e2c:string:B",
+        "courseCredit": "515371e7-7465-493e-b74b-6576cd63d12a:number:4",
+        "gradingBasis": "21232314-7145-4392-9d0f-7db65bef350e:string:GRD",
+        "includeInGPA": "835a1af8-9b9f-4b4c-8a40-7ccdfc6e9c1f:boolean:true",
+        "reportNo": "80d4d56c-70f9-4d6b-ae65-ba71cb7b66a8:number:1",
+        "semester": "908e301f-7d04-4105-9dd3-7681e1a760cb:string:1620"
+      },
+      {
+        "name": "822addb8-c3b2-448b-bf1a-035e3aa5d53f:string:Introduction to Computer Networks",
+        "courseCode": "14f6fb24-ce4d-488f-8563-d288bf913a0a:string:CS2105",
+        "grade": "ad99e0c9-f656-4c05-9f63-25a1c8c20673:string:A",
+        "courseCredit": "509d483f-e45e-4a08-a160-4ad5d3713264:number:4",
+        "gradingBasis": "4f1c9169-c55b-4ab6-a288-cd89dfb3e92a:string:GRD",
+        "includeInGPA": "c45523ab-36e2-4d91-b8ce-c64800480c27:boolean:true",
+        "reportNo": "d4f71368-df80-4c1e-9ee2-e2d192cfc5b9:number:1",
+        "semester": "00a8524c-845e-4f3e-b555-b1c0c73ae2ce:string:1620"
+      },
+      {
+        "name": "2bbd0ff8-4e66-47e8-9507-6a3f7be8070a:string:Introduction to Operating Systems",
+        "courseCode": "a9676a53-3f6a-40a2-9d67-71de83758e96:string:CS2106",
+        "grade": "c4601e31-4ccd-4705-a9b7-7581761d770c:string:A",
+        "courseCredit": "7079679e-b98e-48e2-bc00-f6a6fc22c6af:number:4",
+        "gradingBasis": "2f4e0c4e-97d6-4a83-9ee4-0d96b2760f0a:string:GRD",
+        "includeInGPA": "b3702a21-56f8-4544-8236-47344a0d8964:boolean:true",
+        "reportNo": "20392707-3580-4619-906a-b84a0535aa6a:number:1",
+        "semester": "51eebdd6-b099-47bd-8129-40b95f9c07cb:string:1620"
+      },
+      {
+        "name": "ffdfad96-ef0a-4726-8ef6-ef5f2cf109bf:string:Software Engineering on Modern Application Platforms",
+        "courseCode": "21f23708-0952-4ed4-ba07-2ff92ba1a08b:string:CS3217",
+        "grade": "c3ab36dc-b4c8-4e01-a76f-b264ffd60186:string:A-",
+        "courseCredit": "ffd6de33-0428-41cd-aab0-8a799338577a:number:5",
+        "gradingBasis": "0d6e9c90-77fd-41a1-b02a-c2ceb744ef16:string:GRD",
+        "includeInGPA": "f583c84c-244c-45aa-8bc8-004ef4627c17:boolean:true",
+        "reportNo": "674cf263-0664-4958-b670-c1e20a12f59c:number:1",
+        "semester": "339abfd7-a9aa-4010-a7d5-77d6c929165b:string:1620"
+      },
+      {
+        "name": "16e58d9f-8625-46cd-9f79-0c0b4367b026:string:Internship",
+        "courseCode": "c5b6072f-8c97-4b7f-acd9-3aeab056d9a4:string:CP3200",
+        "grade": "f1a1dfbd-8695-452f-b809-b2e306695aea:string:IP",
+        "courseCredit": "80ddc673-4148-47a6-9422-51bd7d4d037b:number:6",
+        "gradingBasis": "2632e7e3-ede2-4709-9c5d-431beb58e8e8:string:CSU",
+        "includeInGPA": "08b04b60-d233-46db-8bfb-b1e3c10102ca:boolean:false",
+        "reportNo": "98a4baa8-841d-4b9e-b5e2-6e0fe06f830d:number:1",
+        "semester": "538f2d62-1e18-427f-b9fe-968c9ca392d4:string:1630"
+      },
+      {
+        "name": "f8c4f7ff-c784-414e-8312-b0023540f279:string:Internship",
+        "courseCode": "5caeb6e4-477e-4471-a0b6-e3a6f2847980:string:CP3200",
+        "grade": "0031905e-eaf7-48e1-bb30-87437d4427c1:string:CS",
+        "courseCredit": "a91b2aba-731e-4052-9bb6-393797b914dc:number:6",
+        "gradingBasis": "fbe50651-a25a-4300-81c9-542a32b8c4e0:string:CSU",
+        "includeInGPA": "f120c6af-fe9b-453c-be8b-a30445f1751e:boolean:false",
+        "reportNo": "7c117886-8faa-4708-8cc3-eadbcffcf9f2:number:1",
+        "semester": "def018ce-fe00-4802-a91f-1251d0ed32d8:string:1640"
+      },
+      {
+        "name": "b946185f-0005-4954-9285-600706ad7f35:string:Inorganic Chemistry 1",
+        "courseCode": "aa8579dc-7327-418d-b018-67c7e35993ba:string:CM1111",
+        "grade": "331576f7-eab7-4590-85c5-a76abcc81938:string:B",
+        "courseCredit": "cd4f7e09-f8a1-43a2-95d7-c1d71bb9aaef:number:4",
+        "gradingBasis": "4e83e30a-517b-4065-8495-5fcdebd64c2c:string:GRD",
+        "includeInGPA": "7d022fc1-b26d-4e38-a3c8-9ec4ea050ed7:boolean:true",
+        "reportNo": "5d659d0e-dfa0-4406-a8ee-8c6b3edf457f:number:1",
+        "semester": "f89a44ff-5212-4a54-82ee-834b1cc1188b:string:1710"
+      },
+      {
+        "name": "37016bab-751e-4b52-8eae-b65bda2a9de2:string:Independent Project",
+        "courseCode": "b0ca59c2-7adf-4d0f-9d14-68b375031f62:string:CP3106",
+        "grade": "e1dad7a9-df95-493a-9be7-f33999f67749:string:A+",
+        "courseCredit": "f07c5552-a5f3-44ec-90c1-4c67a1b49992:number:4",
+        "gradingBasis": "8649e6e9-b9b2-4c09-93aa-283ad9029d67:string:GRD",
+        "includeInGPA": "e8de9a3c-ad4a-4b87-9b06-8446443a0235:boolean:true",
+        "reportNo": "e63b2372-863c-45bd-872b-768b426dfdb6:number:1",
+        "semester": "1355d5d8-0a7d-4fd6-98a4-d4e1128e9db8:string:1710"
+      },
+      {
+        "name": "f954a34b-b564-42eb-9add-94baf266224c:string:Introduction to Information Security",
+        "courseCode": "360a07a3-100b-4dfe-a9d7-a59cbb8ce65c:string:CS2107",
+        "grade": "a49718d3-387b-454d-829b-0d4a35f4dbba:string:B+",
+        "courseCredit": "42a094a2-0e8f-4d7d-8fb6-b8ee759b7f39:number:4",
+        "gradingBasis": "dea8c744-9f12-425c-ab49-1c128bbadae8:string:GRD",
+        "includeInGPA": "38c678b9-eac5-47b1-b82e-2a743eb7081e:boolean:true",
+        "reportNo": "7ffbe60f-d11d-4869-a81c-6f14613f0a3f:number:1",
+        "semester": "bf2d3c4c-242d-4940-9c49-e2199024d68d:string:1710"
+      },
+      {
+        "name": "35ef2605-b542-45f1-852a-1a611727f4ec:string:Software Engineering Principles and Patterns",
+        "courseCode": "51b159db-f0fe-4be3-943a-b039b4f095ee:string:CS3219",
+        "grade": "7ff08c0e-4bc5-46e3-9079-e6c26b8d51a1:string:B+",
+        "courseCredit": "56fd872c-9c58-4ea3-ba03-56ac629c1144:number:4",
+        "gradingBasis": "caf419b6-c743-4aea-9092-a659c9f56d11:string:GRD",
+        "includeInGPA": "127b3e42-1c0f-415b-8e23-29335452a821:boolean:true",
+        "reportNo": "152d61e3-f091-4c06-b8c2-6ad090db7479:number:1",
+        "semester": "b7894e08-05bf-42d6-b360-90e283adc8bb:string:1710"
+      },
+      {
+        "name": "f00b0fdb-3142-4e4a-850f-618a5a149ae9:string:General Biology",
+        "courseCode": "a1ab0844-9eca-4387-a29e-0ae9bd7fb53d:string:LSM1301",
+        "grade": "ee7cfbed-b60b-45d3-aa9a-818526eb95da:string:S",
+        "courseCredit": "4c37f847-ca69-429f-ac85-47f36f0feb53:number:4",
+        "gradingBasis": "6cb73e39-b945-4700-af48-801ad90768bd:string:SNU",
+        "includeInGPA": "7c6e4bad-1a52-48a5-a0bf-356cb41af744:boolean:false",
+        "reportNo": "26835d84-3a63-4e57-8993-43482c6e3315:number:1",
+        "semester": "190a0514-17bd-4f1c-aeb4-5f1ed10e78ff:string:1710"
+      },
+      {
+        "name": "f1462d89-94b5-4d7d-ab94-02836477df54:string:Career Catalyst",
+        "courseCode": "48222f8f-0824-4c44-a6a1-955bd883c15b:string:CFG2001",
+        "grade": "f12e4ba6-eccb-40b2-8891-2a42b2e43d07:string:CS",
+        "courseCredit": "d4fd952d-f43f-486d-9cf1-c9adcf20900a:number:2",
+        "gradingBasis": "cfdba209-3c5f-4c96-ae5c-90b9683d5919:string:CSU",
+        "includeInGPA": "a653901a-5c97-42df-a994-039313cc84a4:boolean:false",
+        "reportNo": "c30892d3-7534-4708-bb87-81a9a6d8d63c:number:1",
+        "semester": "bfebf8e5-1c73-4073-85ba-2c7be56b5f2c:string:1720"
+      },
+      {
+        "name": "cb03e752-59ec-407f-a6a5-982b68e5d115:string:Chemistry for Life Sciences",
+        "courseCode": "cde05d6f-7195-483b-b55c-a2f5b43e48ba:string:CM1401",
+        "grade": "4ff63763-6882-40be-a534-552035abccfb:string:S",
+        "courseCredit": "3d9d4231-0712-4514-ab7e-b4383d8400bd:number:4",
+        "gradingBasis": "83c7e3ba-a7f9-4685-9b53-426dc3bb4ed8:string:SNU",
+        "includeInGPA": "344ee694-3f05-4c26-887b-67d17dda56a9:boolean:false",
+        "reportNo": "38b7fbcb-850b-4561-806b-8d887a68f5fe:number:1",
+        "semester": "2bc694dc-539a-480d-9143-4feb043b5a94:string:1720"
+      },
+      {
+        "name": "05bc2ebd-0223-4bd5-9a77-73dd0b67cd7e:string:Software Engineering",
+        "courseCode": "3f1dab16-ed16-4e41-a33a-bf10cf61d98a:string:CS2103R",
+        "grade": "e10e4d4e-9f17-4831-93ec-2e64b95433aa:string:A+",
+        "courseCredit": "26b37bf2-0753-4578-a0b1-b434e74b3e8e:number:1",
+        "gradingBasis": "8fedf963-b84d-450b-966b-2f67a562951e:string:GRD",
+        "includeInGPA": "ec2b4d20-e9bb-471f-a548-9fd52311b3f8:boolean:true",
+        "reportNo": "b442c779-01af-4920-8e0f-8835a3be925c:number:1",
+        "semester": "343fa624-dd02-41e3-bbb8-97595bfe1be7:string:1720"
+      },
+      {
+        "name": "75d761ff-6643-45d8-adcd-dd8c4d299188:string:Parallel and Concurrent Programming",
+        "courseCode": "ecc6a26e-ded9-4558-95c4-ff7434b889ea:string:CS3211",
+        "grade": "584630c4-b798-4107-9054-871bce411524:string:C",
+        "courseCredit": "65d41fb0-8954-4a7d-b2b8-f2e6ccf5af4d:number:4",
+        "gradingBasis": "f9b94cde-5c07-4614-8cb1-b0d10f90aef6:string:GRD",
+        "includeInGPA": "6cb83bb6-87ba-4c72-97e5-555dba4d7a90:boolean:true",
+        "reportNo": "caf2fa6b-e855-4dc8-9cab-155ca98005f5:number:1",
+        "semester": "c059cd38-08ef-464f-b9f4-414dec380fb4:string:1720"
+      },
+      {
+        "name": "8a916924-dad0-46b0-a3eb-f8ef3dc69570:string:Computer Security",
+        "courseCode": "6bb012e6-07ca-4eb2-950d-d40cf99e06c6:string:CS3235",
+        "grade": "28d9ea6e-b126-4b47-b0a0-1de5d3b1efa6:string:A-",
+        "courseCredit": "02c9a5a8-85bf-4e44-ac43-f88a446dfe53:number:4",
+        "gradingBasis": "da980ab9-4239-42e4-92eb-4f55c1f9b75a:string:GRD",
+        "includeInGPA": "58992ead-7aa2-461e-a7dc-1906cdfca52c:boolean:true",
+        "reportNo": "c296ebc7-4eb4-4185-be1a-05dbb6a90ee5:number:1",
+        "semester": "a7b8a417-db0f-45c3-b81e-19c304fda92b:string:1720"
+      },
+      {
+        "name": "53c07099-c479-4efa-9bcf-7fc8f0fae200:string:Thematic Systems Project I",
+        "courseCode": "01723d91-2470-4f8d-ad79-fa3ed709819a:string:CS3281",
+        "grade": "ec424d07-bee6-4ec9-b562-ec4d61b7c054:string:A+",
+        "courseCredit": "b0351921-0ac3-405c-9ce6-1273ed4d9bc1:number:4",
+        "gradingBasis": "75df7d8f-c143-45f1-bf2e-f4228f7caed7:string:GRD",
+        "includeInGPA": "e90be5e1-6c54-4eb8-8de6-05cb6f5957cc:boolean:true",
+        "reportNo": "b46bccf4-c9a4-432b-b794-c361b364b772:number:1",
+        "semester": "21dd305b-e210-4db8-9776-6b48f8b25571:string:1720"
+      },
+      {
+        "name": "a802b4b9-853b-4599-a345-a546ee35245e:string:Thematic Systems Project II",
+        "courseCode": "d1de95ef-cd16-4ebe-8324-6a12162c1cde:string:CS3282",
+        "grade": "b3cc8251-120e-43cc-9cb1-5f33c2ae857b:string:A+",
+        "courseCredit": "2bd69e12-4f71-4bb5-8117-8e98acf8cfb8:number:4",
+        "gradingBasis": "b1b96b89-cda4-4f82-832d-0230abb58258:string:GRD",
+        "includeInGPA": "36d5134d-0443-48a7-841d-86bd9ad3daec:boolean:true",
+        "reportNo": "ff670e2d-5159-48d0-9573-d52b6d54ca44:number:1",
+        "semester": "478528f4-0d54-4c3b-a139-5ed3a13f4ebd:string:1720"
+      },
+      {
+        "name": "2697fdaa-a79a-40bb-bdf1-638553b2cdab:string:Islam and Contemporary Malay Society",
+        "courseCode": "5ceab2af-65b0-40d6-b72b-a536e0e4dda2:string:GES1014",
+        "grade": "c8dc2eb6-fa4d-4055-b47e-6e0c7d3c931f:string:S",
+        "courseCredit": "1575873a-42c1-4109-b398-4146eb5eaca1:number:4",
+        "gradingBasis": "0c9cf681-6706-44f7-a14c-c4f48274f291:string:SNU",
+        "includeInGPA": "11612c4f-dbfd-4254-94df-023ced1e5eea:boolean:false",
+        "reportNo": "8c8f02b9-834f-4ffd-a510-3eaa206e78b9:number:1",
+        "semester": "2b409341-b6cf-4baf-a7a1-3ec8e33558d4:string:1720"
+      },
+      {
+        "name": "4ae09fab-7590-4746-af10-db7e5e6f0fcd:string:Internship II",
+        "courseCode": "276b929f-80dd-4b5d-95ab-2ba0caefd439:string:CP3202",
+        "grade": "357eb14f-2ba7-4d59-9a28-b26041b13e79:string:IP",
+        "courseCredit": "f33a73a9-4f37-4d97-ae25-667ffc9f1cb6:number:6",
+        "gradingBasis": "3a10b5de-2ba6-4e32-b6be-ea0ec0c80b55:string:CSU",
+        "includeInGPA": "c7cb46c4-fbe5-461b-a996-668f0d1b3a75:boolean:false",
+        "reportNo": "26e59bfa-410d-4b3b-85fd-aefaa5c76e89:number:1",
+        "semester": "8f47ccd9-12b6-4332-b263-3dd35e603d53:string:1730"
+      },
+      {
+        "name": "19c04679-933a-4be2-8a50-5b44ce7fb8cc:string:Internship II",
+        "courseCode": "787677d6-c54d-485c-8438-8e4e9b586ebd:string:CP3202",
+        "grade": "6251612e-b5a2-4271-9c86-3671bc14648e:string:CS",
+        "courseCredit": "8d598a32-c7eb-4d88-ad2d-4149529064cb:number:6",
+        "gradingBasis": "f3e26f34-33b8-4bfc-9cae-959ed213cdc1:string:CSU",
+        "includeInGPA": "6fc5c25d-1ca2-48e4-a56b-59e71a377aad:boolean:false",
+        "reportNo": "51d7e54e-7c05-47f2-82cc-a52eac6cb446:number:1",
+        "semester": "faeba99a-4e48-4152-ba42-69617577667a:string:1740"
+      },
+      {
+        "name": "edeeba34-c1c3-4061-921a-96e54a4e5d02:string:Software Security",
+        "courseCode": "00407f35-4e18-4620-b10e-55253597469c:string:CS4239",
+        "grade": "4195d11d-cb6a-43c7-aa48-93b2c377887b:string:B",
+        "courseCredit": "f60d99ae-64d1-4a92-8577-4da5f64dcbc2:number:4",
+        "gradingBasis": "9966751d-a52f-4846-82ad-f1e55b5f07c1:string:GRD",
+        "includeInGPA": "8e5a4edf-a89b-46f9-b6b7-2e261beefc61:boolean:true",
+        "reportNo": "792c0dfb-e75d-4d21-b5ef-20a13bc3f162:number:1",
+        "semester": "bc1153dc-5948-4e67-b9e1-b7c9efa86f66:string:1810"
+      },
+      {
+        "name": "7db4bc1d-2137-47b5-84a0-58334d49daf3:string:Information Security Capstone Project.",
+        "courseCode": "1aa7f6ba-6b33-4709-8b86-a1d4557aaad5:string:IFS4205",
+        "grade": "2a2884e3-af7a-4b10-a24a-433762555999:string:A",
+        "courseCredit": "66580f95-b6a0-47d3-a98d-13e53cda10c8:number:8",
+        "gradingBasis": "d16af05e-c25d-44ef-b7b1-34bc372a9b97:string:GRD",
+        "includeInGPA": "295461b2-11cb-4975-9a60-6790160e6b20:boolean:true",
+        "reportNo": "5991a92b-8331-4658-b053-3022c7b98fd7:number:1",
+        "semester": "90a2aee7-b371-44d2-8a33-d9298189f57e:string:1810"
+      }
+    ],
+    "additionalData": {
+      "degreeScroll": [
+        {
+          "degreeTitle": "effae4d6-ed7c-494f-a9bc-a4db776c52fe:string:Bachelor of Computing (Computer Science)",
+          "dateConferred": "617c77a2-2cb3-436f-ad6e-951f1f42f480:string:2019-01-31",
+          "honours": "2e7ebed3-f607-4479-ae93-c5fc3dbdc144:string:Honours (Distinction)",
+          "major": "04ffe162-2e00-4845-98cf-54b94e33b755:string:COMPUTER SCIENCE (HONS)",
+          "degreeCode": "2b87cf4a-e950-4a51-a625-2cbbdb9a80c4:string:B031003",
+          "type": "d1cbc033-fa5d-4167-a75d-99b2c96d34cc:string:K1A (GENERAL)"
+        }
+      ],
+      "images": {
+        "PRESIDENT": {
+          "data": "12fa5e23-33d8-408b-a499-fe8f9e225ac2:string:data:image/png;base64,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",
+          "width": "ece4e742-4725-454c-844a-32d2bceb69f7:number:2.5",
+          "height": "46f745fb-722c-4e26-88bf-95c3a1125a71:number:1.48",
+          "unit": "8e3e02fe-6c7e-45c0-b994-185329b4e79b:string:CM"
+        },
+        "TRUSTEES": {
+          "data": "767a9773-2574-4245-b6b8-123ed3bb560c:string:data:image/png;base64,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",
+          "width": "1cbe1ea7-8948-43ac-9233-2ecf49c63a17:number:5.31",
+          "height": "2855de23-5c75-4f7a-8350-e93dcd5bd669:number:1.15",
+          "unit": "0bbf4ba5-7f64-4d19-94b6-e8a6f03e44c6:string:CM"
+        }
+      },
+      "transcriptType": "8ca5764a-c1c6-488e-a1e4-63944c11bc36:string:UGOF",
+      "transcriptReq": "d1be2b51-7c14-4ab5-bd86-d011258727e0:string:001190411",
+      "transcriptGroup": [
+        {
+          "name": "4ba8bb91-bb6b-4e74-a72e-93ebb3f224a9:string:1510",
+          "term": "aafd1ae3-316f-4110-9407-5f6250cdf10c:string:2015/2016 Semester 1",
+          "formOfStudy": "15befe65-620b-4ce4-8e92-54199b32d910:string:ENRL",
+          "fosPrintArea": "dcf51c19-e7e2-431b-bfe6-15649f9deb5b:string:ND",
+          "summary": [
+            {
+              "programName": "cca802dd-85cf-4abf-ba0d-e7d0a4d6f532:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "386c7c90-2410-4457-b549-fe680e68684e:boolean:true",
+              "GPAName": "b211cbf5-0e40-4460-8fd0-c9ad8bf181b9:string:Cumulative Average Point",
+              "GPA": "926fa1be-2e13-45b1-8fb6-7b9af6c2f97a:number:4.5"
+            }
+          ],
+          "reportNo": "7a9660d1-be91-4686-86a0-fd3bfb53532c:number:1"
+        },
+        {
+          "name": "1697f718-45ae-4377-9791-5d148a1061e8:string:1520",
+          "term": "14cf0422-eb62-42ac-821e-6cb203717a01:string:2015/2016 Semester 2",
+          "formOfStudy": "aff7e85a-e4c7-422c-836d-5bb73da5f0d3:string:ENRL",
+          "fosPrintArea": "03dcd69a-f9eb-4080-9cef-bf645b8c86e0:string:ND",
+          "summary": [
+            {
+              "programName": "dff76ae5-0591-4d83-9db7-7c5c8c696658:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "34d79087-f816-4e20-be02-325e965b24a1:boolean:true",
+              "GPAName": "22f3aa28-e4cb-4270-ab54-0fbf7e4950ff:string:Cumulative Average Point",
+              "GPA": "27e18158-8051-4e64-960c-63c94c809558:number:4.65"
+            }
+          ],
+          "reportNo": "70a2ca22-b347-4a75-bc2d-44e0e016b135:number:1"
+        },
+        {
+          "name": "c64a18c8-b361-4824-ac30-0c2c5ba77b20:string:1540",
+          "term": "ae2885bc-a0f1-4f7c-8589-e6c10e241dc9:string:2015/2016 Special Term(Part 2)",
+          "formOfStudy": "b91bfa8d-fae1-495e-b1e3-f064420c7c1b:string:ENRL",
+          "fosPrintArea": "fd08f722-53d5-402a-bc0a-0be41acb35ed:string:ND",
+          "summary": [
+            {
+              "programName": "a8b4c0a3-2765-43fb-9b65-8df3ab6ca374:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "ddef0a91-fca2-4b85-a0ea-0356577efcc6:boolean:true",
+              "GPAName": "b146c748-e9ba-4d6a-b999-b717f69028d0:string:Cumulative Average Point",
+              "GPA": "dcc5493d-fb30-46a2-9da3-8338ba90612a:number:4.68"
+            }
+          ],
+          "reportNo": "ba15e163-6c47-474c-81ae-0563df5f2d76:number:1"
+        },
+        {
+          "name": "39d17a92-7ae1-4bbd-a440-d9bb5fb19df1:string:1610",
+          "term": "69d47c85-8202-4801-a2a1-e37594d64a62:string:2016/2017 Semester 1",
+          "formOfStudy": "2993c918-4712-410e-91f9-b2cb202a0760:string:ENRL",
+          "fosPrintArea": "698d6189-14eb-4d92-9926-28fa6d26fc64:string:ND",
+          "summary": [
+            {
+              "programName": "557712cb-6be4-4dfe-bce4-1e4d8b881c2d:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "c8514d28-e70c-4687-9191-82abbf666f6f:boolean:true",
+              "GPAName": "10c0ba61-19ef-401d-8954-7682ee2c0251:string:Cumulative Average Point",
+              "GPA": "bf3134b9-4f6c-44ec-97fa-e59524915263:number:4.59"
+            }
+          ],
+          "reportNo": "e9eda792-90ae-49f4-bc1b-ef247934614a:number:1"
+        },
+        {
+          "name": "2d918e55-3e54-4742-a649-437d99674a38:string:1620",
+          "term": "cde316a1-aa9b-451f-ba2a-5351bc4bbf28:string:2016/2017 Semester 2",
+          "formOfStudy": "3a07865b-8973-4e63-b497-9fd036fb4c72:string:ENRL",
+          "fosPrintArea": "d960190e-dd81-4234-9db9-013986a1814e:string:ND",
+          "summary": [
+            {
+              "programName": "1a6c2964-b0a1-46a4-bb1f-d36ccd8e3ec8:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "59a83a91-e99b-4cb1-b8f7-74d51d514187:boolean:true",
+              "GPAName": "627c71a1-49c8-4d70-a282-ed3c9430c2b5:string:Cumulative Average Point",
+              "GPA": "4b3fcd80-dccd-44c4-bceb-5bd58e8978da:number:4.57"
+            }
+          ],
+          "reportNo": "9ef21bd9-877a-4137-a238-661fa0a446a8:number:1"
+        },
+        {
+          "name": "6109c7fd-01af-414a-940b-e135b318516c:string:1630",
+          "term": "21a910a0-942f-4610-8b61-4c7613697d6a:string:2016/2017 Special Term(Part 1)",
+          "formOfStudy": "5dc19559-dfa4-43e8-a409-406a632d798b:string:ENRL",
+          "fosPrintArea": "af30e4a5-53a1-478e-9670-8ffe9c23e772:string:ND",
+          "summary": [
+            {
+              "programName": "b5fdb5bd-308a-4b1c-84e6-52e0d3ca24ff:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "e0e5ddee-267f-43a7-a554-677636524f23:boolean:true",
+              "GPAName": "9420923c-817d-4408-9fee-6157babfc9fc:string:Cumulative Average Point",
+              "GPA": "217047a0-94d8-4d71-a9ea-e00f92b19052:number:4.57"
+            }
+          ],
+          "reportNo": "e0139076-931d-4174-a94a-97242bf0bc57:number:1"
+        },
+        {
+          "name": "6db4d646-afd9-4f1b-a2cb-813fd3edd77f:string:1640",
+          "term": "34691a7d-6c19-4f45-8e84-53b666f22b10:string:2016/2017 Special Term(Part 2)",
+          "formOfStudy": "a5e3beea-946c-4e39-bda1-3926ad64becd:string:ENRL",
+          "fosPrintArea": "6fc27544-d16d-4e0c-9386-c9db6623128e:string:ND",
+          "summary": [
+            {
+              "programName": "2323d8ac-1798-4d9a-9c8b-0bd92105bdb5:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "ad3bc566-9211-4f6d-a3c5-f23df5456c3c:boolean:true",
+              "GPAName": "5b78b195-7396-42d4-b5d5-202672739bfb:string:Cumulative Average Point",
+              "GPA": "7843d875-4faf-4768-ac7e-59de51d808b5:number:4.57"
+            }
+          ],
+          "reportNo": "2086fe0b-e10e-4081-911f-d554c93acaf7:number:1"
+        },
+        {
+          "name": "b8732d02-2aec-4267-b9b0-f06abf006d2c:string:1710",
+          "term": "b8b0b998-ea0a-41e1-9b69-751ae0f4b5ab:string:2017/2018 Semester 1",
+          "formOfStudy": "a87ad4bf-80ab-499f-85e7-9b240b3dafa8:string:ENRL",
+          "fosPrintArea": "52402fc9-222b-4ee2-8244-421d6ed9fb6b:string:ND",
+          "summary": [
+            {
+              "programName": "5a0d1f1d-4886-4fb7-96da-9106df955f5b:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "b002095f-5c9f-4963-9481-a9354a66d08f:boolean:true",
+              "GPAName": "e1f84fe0-ffc1-4958-bff0-aea720afd179:string:Cumulative Average Point",
+              "GPA": "513f636b-b123-4926-b7af-9037663c01bb:number:4.5"
+            }
+          ],
+          "reportNo": "fe0c4e40-7ff7-4c5e-82f7-8f0be8ff0ba2:number:1"
+        },
+        {
+          "name": "97f7f835-8fce-4a5a-a179-25309a9ca38e:string:1720",
+          "term": "0fa842e1-a8ec-4542-b0af-34f8a19af533:string:2017/2018 Semester 2",
+          "formOfStudy": "a8fb1df4-a710-49e5-b1ed-2be3a02cc25d:string:ENRL",
+          "fosPrintArea": "7a5b3547-d2d8-4ddc-857b-0affd8948981:string:ND",
+          "summary": [
+            {
+              "programName": "42973060-4969-4ef3-afff-2dc78943a130:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "63bb6649-d1be-4f7a-acc4-072db8ad3019:boolean:true",
+              "GPAName": "6d43cedf-0e1b-4f72-9c69-2ba8765ca9f0:string:Cumulative Average Point",
+              "GPA": "d15b0ce0-2568-4822-9017-00d2aef5c3a2:number:4.45"
+            }
+          ],
+          "reportNo": "d8d78a85-6cbd-4b67-bcf2-2fe5e426c472:number:1"
+        },
+        {
+          "name": "c6e1e96f-08d1-49d7-a043-bd8b7ecd1ac4:string:1730",
+          "term": "a50a66c2-4cbf-48c8-9224-0d67277e6e4d:string:2017/2018 Special Term(Part 1)",
+          "formOfStudy": "43967a6a-2c65-49dc-ae23-1aa5bbeeec9f:string:ENRL",
+          "fosPrintArea": "238f1970-71cc-4745-a3f4-7bc66604035c:string:ND",
+          "summary": [
+            {
+              "programName": "a0b60bdc-29a7-402b-b5c8-2a99bb846119:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "73696f40-8ef5-4cc0-990b-1293fa33c980:boolean:true",
+              "GPAName": "04bb72a6-92ef-434c-9c24-f6dc8cb8c40e:string:Cumulative Average Point",
+              "GPA": "8e233862-1a6d-4879-a881-3793a562a938:number:4.45"
+            }
+          ],
+          "reportNo": "eb9b7443-00ec-4a46-ae65-9dba678a441c:number:1"
+        },
+        {
+          "name": "28a0452e-bbf4-4d46-92f1-ed99865814a1:string:1740",
+          "term": "b01e8c78-5578-46ea-84a7-c1f1624ee77b:string:2017/2018 Special Term(Part 2)",
+          "formOfStudy": "0faf4e81-78a1-46b4-bdf5-a7a17ece15cc:string:ENRL",
+          "fosPrintArea": "08d7cbbc-ad8a-4ae8-814e-a03490c30f0f:string:ND",
+          "summary": [
+            {
+              "programName": "f7f1de6c-9fcc-492e-877b-0389c389d0ae:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "e33590a7-c784-435f-bc6e-296e46c0ff21:boolean:true",
+              "GPAName": "c9a2e025-bfbe-4fee-a399-d361c1a4153e:string:Cumulative Average Point",
+              "GPA": "c6f1a5cb-871f-4f9b-82c4-a54ea6b382e8:number:4.45"
+            }
+          ],
+          "reportNo": "05626f6b-482c-4c0f-866b-0836d05db063:number:1"
+        },
+        {
+          "name": "0fac824b-72e3-4862-9a38-e320f109499a:string:1810",
+          "term": "dcd346a2-bdda-460f-b025-658b678da0c8:string:2018/2019 Semester 1",
+          "formOfStudy": "5961589f-71e3-452b-95d3-4f90f90073d9:string:ENRL",
+          "fosPrintArea": "dc1e67a4-1563-49ea-9d48-85d1a02b387d:string:ND",
+          "summary": [
+            {
+              "programName": "447e76ce-f5ad-4934-957b-72f27d50769c:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "c0f1a2db-73fa-4ad3-b321-dc10438d9d7d:boolean:true",
+              "GPAName": "28ac426c-d955-4488-9310-63a539f75a81:string:Cumulative Average Point",
+              "GPA": "0417d61e-b08f-4c15-842f-6363df6b741a:number:4.46"
+            }
+          ],
+          "reportNo": "c5264447-f8cf-4646-8f33-eef074a39ccc:number:1"
+        }
+      ],
+      "programData": [
+        {
+          "programCode": "2ff696b2-fc33-4b7b-b830-d23005bfdf9b:string:B0310",
+          "programName": "a63330d0-0521-45ab-8a45-f64caf693efd:string:Bachelor of Computing (Computer Science)",
+          "statusCode": "3a6b8356-a9ad-4d07-8fcf-50bc8aae6970:string:CM",
+          "statusDescription": "97e950c9-1cee-4536-822c-057909e81484:string:Completed Programme",
+          "effectiveDate": "a1b16b48-2a58-46b4-8dc1-ab2309fbe361:string:2019-01-31",
+          "admitTerm": "bc817ca4-6eed-426e-bf6e-d2c4f6d53baa:string:1510",
+          "reportNo": "4e9e9f5b-1e42-43a9-aa87-c00f63b9b56c:number:1"
+        }
+      ],
+      "degreeData": [
+        {
+          "degreeTitle": "8ce0cdf3-078c-4b65-b9c7-3c676d6bcc95:string:Bachelor of Computing (Computer Science)",
+          "dateConferred": "508c1e08-5b50-49bf-be95-1c58e2a91a72:string:2019-01-31",
+          "honours": "ebeb8972-a944-4eb8-8c94-e4e7128b8164:string:Honours (Distinction)",
+          "reportNo": "e893eab0-397d-4587-adb6-e3cbb288bfc0:number:1"
+        }
+      ],
+      "uniqueId": "2efa1343-6c4c-4d51-a03f-a37e620b28d5:string:NUS-A0139655U-B031003-P12214306-5636-20190131"
+    }
+  },
+  "privacy": {},
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "0df07ba5bd1cd4836d0fab0ecaa1d2167591a68cb29c05161aaee7ae30f4922b",
+    "proof": [
+      "ece7c225899687151b93bfa4af1d32c1c3f9511b218bd333405bd7e26cf6f0c2",
+      "41ab0394e2d1eae181a5e77126491dee0f911b419732f638bb901d41324fb451",
+      "7e0274f66a7faeb9fce3a7073b26c95b870cbff0d74c7bade39ee464509740fa",
+      "808a1c2cbbb611b993229fa01e5fb8261d540b7aa919721e77b7500943bba4f0",
+      "20fe1865ea1a3de310ea6de1ba474bcd87706bad6203702fc146063c43ff95ee",
+      "0748bcbe257d2bc7a8eff757ab31e49107302e4e92b2c87b85f9bd82bc6b6156",
+      "f81d239834e6f55bbc99ce38e9cc3e633c5886e6fa876ead0ffbe13592ab3a8d",
+      "c21df38bfca84c048a149d56a2d9ae2c720f6915a6ecebf58129e8ead2170091",
+      "820f49e39b7b1e99e03464c9b1dafaff67c1c6770bea067907b02fbcbbd5c4c8",
+      "e048da726b62c83446969daf583bbe0f094e7bca524053caab8cc0006343a066",
+      "8f170dde26bc4caa39e565885c98028d66e8482cdd842f72ee88e15d41e04370",
+      "5acd6c81b164ae5faa178807dd922f7d9fd830a7d602744ff51c80b0a6746377",
+      "404f3c1c252eb8a001832222b1c7fa83c77c7e935319fd8dcc07002f34156ee9"
+    ],
+    "merkleRoot": "4aafbbfde55c6aa2b2ac6f39401deabaec082a29ecb917ff3b4714f2a27d2d25"
+  }
+}
